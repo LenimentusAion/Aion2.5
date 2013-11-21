@@ -1,0 +1,1 @@
+ALTER TABLE aionshop_transactions ADD COLUMN `gift_receiver` VARCHAR(50) NULL DEFAULT NULL AFTER `player_id`;

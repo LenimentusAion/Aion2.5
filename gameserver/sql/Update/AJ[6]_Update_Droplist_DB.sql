@@ -1,0 +1,1 @@
+RENAME TABLE droplist TO custom_droplist;

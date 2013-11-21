@@ -1,0 +1,1 @@
+alter table account_data add column `last_logout` bigint(21) DEFAULT NULL AFTER `email`;
